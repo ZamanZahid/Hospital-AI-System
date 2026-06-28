@@ -1,0 +1,10 @@
+Patient ID: P-001
+Name: John Doe
+Age: 45
+Date: 2025-05-10
+Document Type: Doctor Note
+
+Patient presents with a history of Type 2 Diabetes diagnosed in 2020. 
+Patient is allergic to Penicillin (causes severe rash).
+Currently prescribed Metformin 500mg twice daily.
+Patient reports feeling fatigued lately. Advised to get a comprehensive metabolic panel.

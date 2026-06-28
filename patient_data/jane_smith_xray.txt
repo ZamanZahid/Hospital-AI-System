@@ -1,0 +1,16 @@
+Patient ID: P-002
+Name: Jane Smith
+Age: 32
+Date: 2026-6-28
+Document Type: X-Ray Report
+
+Exam: Chest X-Ray (PA and Lateral)
+Indication: Persistent cough for 2 weeks.
+
+Findings:
+The heart size is normal. The mediastinal contours are unremarkable. 
+The lungs are clear bilaterally. There is no focal consolidation, pleural effusion, or pneumothorax.
+Bony structures appear intact.
+
+Impression:
+Normal chest X-ray. No signs of pneumonia or active cardiopulmonary disease.

@@ -1,0 +1,14 @@
+Patient ID: P-001
+Name: John Doe
+Age: 45
+Date: 2025-10-25
+Document Type: Lab Report
+
+Test: Comprehensive Metabolic Panel & Vitals
+Blood Pressure: 130/85 mmHg
+Heart Rate: 78 bpm
+Fasting Blood Sugar: 142 mg/dL (High)
+HbA1c: 7.1% (High)
+Cholesterol: 190 mg/dL (Normal)
+
+Notes: Blood sugar levels are elevated. Recommend adjusting Metformin dosage and strict dietary control.
