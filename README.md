@@ -25,7 +25,7 @@ Ask natural language questions about patient records such as:
 Example:
 ```bash
 python hospital_rag.py --query "What allergies does John Doe have?"
-
+```
 
 ---
 
@@ -45,7 +45,7 @@ Install the required packages:
 pip install -r requirements.txt
 ```
 
-Create a `.env` file in the project directory and add your Google Gemini API key:
+In the `.env` file add your Google Gemini API key:
 
 ```env
 GOOGLE_API_KEY=YOUR_API_KEY_HERE
